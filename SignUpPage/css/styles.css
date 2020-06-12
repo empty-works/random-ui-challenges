@@ -4,6 +4,7 @@ body {
 
 form {
 	text-align: center;
+	padding: 5% 30%;
 }
 
 h1 {
@@ -12,7 +13,8 @@ h1 {
 }
 
 label {
-	text-align: left;
 	font-family: 'Montserrat', sans-serif;	
+	font-size: 1.5rem;
 	color: #fff;
+	padding: 40px;
 }

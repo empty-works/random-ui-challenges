@@ -2,11 +2,17 @@ body {
 	background-color: #1b6ca8;
 }
 
+form {
+	text-align: center;
+}
+
 h1 {
 	text-align: center;
 	color: #fff;
 }
 
 label {
-	text-align: center;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;	
+	color: #fff;
 }
